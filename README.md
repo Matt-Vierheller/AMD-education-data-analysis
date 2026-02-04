@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AMD Patient Education Analytics Platform
 
 **End-to-end ETL pipeline, predictive modeling, and interactive Streamlit dashboard for analyzing ophthalmic patient education effectiveness and feedback.**
