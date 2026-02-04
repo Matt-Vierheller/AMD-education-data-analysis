@@ -69,12 +69,12 @@ This project includes an interactive Streamlit dashboard for analyzing synthetic
 
 (We'll add the image links in the next step after we stage/upload the screenshots folder.)
 
-![Full Dashboard Overview](screenshots/dashboard_overview.png)
-![Gender Filter Example](screenshots/gender_filter_example.png)
-![Disease Filter Example](screenshots/disease_filter_example.png)
-![Module Filter Example](screenshots/module_filter_example.png)
-![Word Cloud & Feedback](screenshots/word_cloud_and_feedback.png)
-![Score Improvement & Table](screenshots/score_improvement_and_table.png)
+![Full Dashboard Overview](dashboard_overview.png)
+![Gender Filter Example](gender_filter_example.png)
+![Disease Filter Example](disease_filter_example.png)
+![Module Filter Example](module_filter_example.png)
+![Word Cloud & Feedback](word_cloud_and_feedback.png)
+![Score Improvement & Table](score_improvement_and_table.png)
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt` (create this file if missing)
